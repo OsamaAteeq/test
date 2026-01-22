@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 07ff8ee5606ff484aa3df19d86a65e67
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274646
+  packageName: com.vsoft.csvparser
+  packageVersion: 1.0
+  assetPath: Assets/CSV Parser/Scenes/MainScene.unity
+  uploadId: 638081

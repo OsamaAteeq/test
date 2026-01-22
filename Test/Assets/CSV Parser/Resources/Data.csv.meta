@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 465f03d8939ccf441a06fb61de946a6b
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274646
+  packageName: com.vsoft.csvparser
+  packageVersion: 1.0
+  assetPath: Assets/CSV Parser/Resources/Data.csv
+  uploadId: 638081
