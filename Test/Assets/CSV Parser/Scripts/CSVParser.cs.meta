@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: baee04ccb75f235489d6f93e3078b349
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274646
+  packageName: com.vsoft.csvparser
+  packageVersion: 1.0
+  assetPath: Assets/CSV Parser/Scripts/CSVParser.cs
+  uploadId: 638081

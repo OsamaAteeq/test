@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8aa7073fb8dd7d948b09929d2a5405c7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274646
+  packageName: com.vsoft.csvparser
+  packageVersion: 1.0
+  assetPath: Assets/CSV Parser/README.md
+  uploadId: 638081
